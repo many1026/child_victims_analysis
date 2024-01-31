@@ -15,8 +15,9 @@ Data for this project is sourced from reputable public health databases and plat
 
 ## Project Structure
 
-[### 1. Data Collection](https://github.com/many1026/child_victims_analysis/blob/main/Data%20Collection.md)
-Scripts and notebooks related to data gathering from specified sources.
+### 1. Data Collection
+
+[Scripts and notebooks related to data gathering from specified sources.](https://github.com/many1026/child_victims_analysis/blob/main/Data%20Collection.md)
 
 ### 2. Data Cleaning and Preprocessing
 Notebooks detailing the data cleaning and preprocessing steps, ensuring the data is ready for analysis.
