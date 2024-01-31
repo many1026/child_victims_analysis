@@ -9,12 +9,9 @@ The primary goal is to examine specific public health issues such as trends in c
 ## Data Sources
 Data for this project is sourced from reputable public health databases and platforms. We ensure the data encompasses variables relevant to our objectives, including demographic information, disease incidence rates, and healthcare facility locations.
 
-### Recommended Websites for Data:
-- [CDC (Centers for Disease Control and Prevention)](https://www.cdc.gov/)
-- [WHO (World Health Organization)](https://www.who.int/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [HealthData.gov](https://www.healthdata.gov/)
-- [European Union Open Data Portal](https://data.europa.eu/en)
+### Websites for Data:
+- [National Child Abuse and Neglect Data System (NCANDS) Findings](https://healthdata.gov/stories/s/kaeg-w7jc)
+
 
 ## Project Structure
 
