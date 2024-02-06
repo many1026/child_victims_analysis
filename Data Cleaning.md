@@ -9,3 +9,5 @@ The columns that are worth explaining are the following:
   Now let's run an EDA on my DF, 
 Let's start with a histogram
 ![image](https://github.com/many1026/child_victims_analysis/assets/73008381/8cca94fd-6014-4a65-949c-acecba488b5e)
+I choose to delete the state NATIONAL where it contains the aggregate sum of all states.
+Ill continue my wiork on tabbleau
